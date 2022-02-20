@@ -13,7 +13,7 @@ const data = [
   image: PROJ1, 
   title: "Personal Portfolio Website", 
   github: "https://github.com/amaan1111/Portfolio-Website.", 
-  demo: "https://github.com/amaan1111/Portfolio-Website"
+  demo: "https://neosama.netlify.app/"
     },
   {
   id: 2, 
