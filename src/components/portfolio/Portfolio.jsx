@@ -20,7 +20,7 @@ const data = [
   image: PROJ2, 
   title: "Multi Calculator", 
   github: "https://github.com/amaan1111/Multi-Calculator", 
-  demo: 'https://github.com/amaan1111/Multi-Calculator'
+  demo: 'https://multicalculator.netlify.app'
   },
   {
     id: 3, 
