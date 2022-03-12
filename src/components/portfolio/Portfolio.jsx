@@ -9,48 +9,48 @@ import PROJ6 from '../../assets/Proj6.jpg'
 
 const data = [
   {
-  id: 1, 
-  image: PROJ1, 
-  title: "Personal Portfolio Website", 
-  github: "https://github.com/amaan1111/Portfolio-Website.", 
-  demo: "https://neosama.netlify.app/"
-    },
-  {
-  id: 2, 
-  image: PROJ2, 
-  title: "Multi Calculator", 
-  github: "https://github.com/amaan1111/Multi-Calculator", 
-  demo: 'https://multicalculator.netlify.app'
+    id: 1,
+    image: PROJ1,
+    title: "Personal Portfolio Website",
+    github: "https://github.com/amaan1111/Portfolio-Website.",
+    demo: "https://neosama.netlify.app/",
   },
   {
-    id: 3, 
-    image: PROJ3, 
-    title: "JavaScript Analog Clock", 
-    github: "https://github.com/amaan1111/JavaScript-Clock", 
-    demo: 'https://github.com/amaan1111/JavaScript-Clock'
+    id: 2,
+    image: PROJ2,
+    title: "Multi Calculator",
+    github: "https://github.com/amaan1111/Multi-Calculator",
+    demo: "https://multicalculator.netlify.app",
   },
   {
-      id: 4, 
-      image: PROJ4, 
-      title: "2 Player Shooting game", 
-      github: "https://github.com/amaan1111/2-Player-shooting-game", 
-      demo: 'https://github.com/amaan1111/2-Player-shooting-game'
+    id: 3,
+    image: PROJ3,
+    title: "Weather App",
+    github: "https://github.com/amaan1111/Weather-App",
+    demo: "https://github.com/amaan1111/Weather-App",
   },
   {
-        id: 5, 
-        image: PROJ5, 
-        title: "Form Validation", 
-        github: "https://github.com/amaan1111/Form-Validation", 
-        demo: 'https://github.com/amaan1111/Form-Validation'
-    },
-    {
-          id: 6, 
-          image: PROJ6, 
-          title: "Nobel Prize Winners", 
-          github: "https://github.com/amaan1111/Nobel-Prize-Winners", 
-          demo: 'https://github.com/amaan1111/Nobel-Prize-Winners'
-      }
-  ]
+    id: 4,
+    image: PROJ4,
+    title: "2 Player Shooting game",
+    github: "https://github.com/amaan1111/2-Player-shooting-game",
+    demo: "https://github.com/amaan1111/2-Player-shooting-game",
+  },
+  {
+    id: 5,
+    image: PROJ5,
+    title: "Form Validation",
+    github: "https://github.com/amaan1111/Form-Validation",
+    demo: "https://github.com/amaan1111/Form-Validation",
+  },
+  {
+    id: 6,
+    image: PROJ6,
+    title: "Nobel Prize Winners",
+    github: "https://github.com/amaan1111/Nobel-Prize-Winners",
+    demo: "https://github.com/amaan1111/Nobel-Prize-Winners",
+  },
+];
 
 const Portfolio = () => {
   return (
