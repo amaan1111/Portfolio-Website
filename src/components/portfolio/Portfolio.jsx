@@ -40,8 +40,8 @@ const data = [
     id: 5,
     image: PROJ5,
     title: "Form Validation",
-    github: "https://github.com/amaan1111/Form-Validation",
-    demo: "https://github.com/amaan1111/Form-Validation",
+    github: "https://github.com/amaan1111/Krypto",
+    demo: "https://kryptocc.netlify.app/",
   },
   {
     id: 6,
