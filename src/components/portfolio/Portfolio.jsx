@@ -39,7 +39,7 @@ const data = [
   {
     id: 5,
     image: PROJ5,
-    title: "Form Validation",
+    title: "Crypto Price Checker",
     github: "https://github.com/amaan1111/Krypto",
     demo: "https://kryptocc.netlify.app/",
   },
