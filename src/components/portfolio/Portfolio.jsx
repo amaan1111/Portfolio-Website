@@ -39,9 +39,9 @@ const data = [
   {
     id: 5,
     image: PROJ5,
-    title: "Crypto Price Checker",
-    github: "https://github.com/amaan1111/Krypto",
-    demo: "https://kryptocc.netlify.app/",
+    title: "CryptoNet",
+    github: "https://github.com/amaan1111/Crypto-Labs",
+    demo: "https://cryptonetcc.netlify.app/",
   },
   {
     id: 6,
