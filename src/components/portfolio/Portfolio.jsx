@@ -25,16 +25,16 @@ const data = [
   {
     id: 3,
     image: PROJ3,
-    title: "Weather App",
-    github: "https://github.com/amaan1111/Weather-App",
-    demo: "https://github.com/amaan1111/Weather-App",
+    title: "PokeDex App",
+    github: "https://github.com/amaan1111/PokeDex-app",
+    demo: "https://pokedexxter.netlify.app/",
   },
   {
     id: 4,
     image: PROJ4,
-    title: "2 Player Shooting game",
-    github: "https://github.com/amaan1111/2-Player-shooting-game",
-    demo: "https://github.com/amaan1111/2-Player-shooting-game",
+    title: "Weather App",
+    github: "https://github.com/amaan1111/Weather-App",
+    demo: "https://github.com/amaan1111/Weather-App",
   },
   {
     id: 5,
